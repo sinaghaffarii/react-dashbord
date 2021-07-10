@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/react-dashbord/static/js/main.11d2ac75.chunk.js",
+    "main.js.map": "/react-dashbord/static/js/main.11d2ac75.chunk.js.map",
+    "runtime-main.js": "/react-dashbord/static/js/runtime-main.a04007ea.js",
+    "runtime-main.js.map": "/react-dashbord/static/js/runtime-main.a04007ea.js.map",
+    "static/css/2.6d943968.chunk.css": "/react-dashbord/static/css/2.6d943968.chunk.css",
+    "static/js/2.b3c95bba.chunk.js": "/react-dashbord/static/js/2.b3c95bba.chunk.js",
+    "static/js/2.b3c95bba.chunk.js.map": "/react-dashbord/static/js/2.b3c95bba.chunk.js.map",
+    "index.html": "/react-dashbord/index.html",
+    "static/css/2.6d943968.chunk.css.map": "/react-dashbord/static/css/2.6d943968.chunk.css.map",
+    "static/js/2.b3c95bba.chunk.js.LICENSE.txt": "/react-dashbord/static/js/2.b3c95bba.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/react-dashbord/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/google.bbce75f8.svg": "/react-dashbord/static/media/google.bbce75f8.svg",
+    "static/media/logo.d0e27845.svg": "/react-dashbord/static/media/logo.d0e27845.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a04007ea.js",
+    "static/css/2.6d943968.chunk.css",
+    "static/js/2.b3c95bba.chunk.js",
+    "static/js/main.11d2ac75.chunk.js"
+  ]
+}
